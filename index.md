@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a senior undergraduate student at Northwestern Polytechnical University. My research focuses on Low-level tasks in computer vision, particularly HDR Imaging.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Low-level, HDR Imaging.
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Our paper about deghosting in HDR Imaging is accepted to TCSVT!
+- **[Jun. 2024]** Bracketing Image Restoration and Enhancement NTIRE 2024 Challenge-Track1 Third Prize.
+- **[Jun. 2024]** Bracketing Image Restoration and Enhancement NTIRE 2024 Challenge-Track2 Second Prize.
 
 {% include_relative _includes/publications.md %}
 
