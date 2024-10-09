@@ -4,6 +4,6 @@ main:
     authors: Qingsen Yan, Kangzhen Yang, Tao Hu, Genggeng Chen, Kexin Dai, Peng Wu, Wenqi Ren, Yanning Zhang
     journal_short: TCSVT
     journal: IEEE Transactions on Circuits and Systems for Video Technology
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xtL01D53NiwJ:scholar.google.com/&output=citation&scisdr=ClHXxVHKEPbD0bfnmqk:AFWwaeYAAAAAZwThgqnf5K3UGSomMtckQj4tDZk&scisig=AFWwaeYAAAAAZwThgm6UwZtaPKPUo8bDfe7ObiU&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/From Dynamic to Static.png
     notes: Accept
+    pdf: https://ieeexplore.ieee.org/abstract/document/10693592
